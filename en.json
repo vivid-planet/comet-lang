@@ -26,6 +26,7 @@
   "comet.blocks.columns.noColumns": "No columns",
   "comet.blocks.columns.unknownColumn": "Can't find column",
   "comet.blocks.createCompositeBlock.settings": "Settings",
+  "comet.blocks.damImage": "Image",
   "comet.blocks.damVideo": "Video (CMS Asset)",
   "comet.blocks.drawer.addAndEdit": "add + edit",
   "comet.blocks.drawer.header": "Add new block",
