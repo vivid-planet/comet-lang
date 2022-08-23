@@ -371,5 +371,6 @@
   "comet.table.pagination.pageInfo": "Page {current} of {total}",
   "comet.table.tableFilterFinalForm.resetButton": "Reset filter",
   "comet.table.tableQuery.error": "Error :( {error}",
-  "comet.version.title": "Version: {buildNumber} ({commitSha})"
+  "comet.version.title": "Version: {buildNumber} ({commitSha})",
+  "cometAdmin.dateTime.fromToSeparatorText": "to"
 }
