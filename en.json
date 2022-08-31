@@ -84,6 +84,7 @@
   "comet.blocks.seo.sitemap.priority.0_5": "0.5 (Default)",
   "comet.blocks.seo.sitemap.priority.1_0": "1.0 (High)",
   "comet.blocks.seo.sitemap.sectionTitle": "Sitemap",
+  "comet.blocks.seo.structuredData.sectionTitle": "Structured Data",
   "comet.blocks.skeleton.noAdminImplemented": "This block has no configurable content",
   "comet.blocks.space": "Space",
   "comet.blocks.space.height": "Height",
