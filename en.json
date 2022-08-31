@@ -261,6 +261,7 @@
   "comet.pages.pages.page.deleteDialog.deleteButton": "Delete Page",
   "comet.pages.pages.page.deleteDialog.title": "Delete page?",
   "comet.pages.pages.page.documentType": "Document Type",
+  "comet.pages.pages.page.editContent": "Edit content",
   "comet.pages.pages.page.hideInMenu": "Hide in Menu",
   "comet.pages.pages.page.movePage": "Move page",
   "comet.pages.pages.page.name": "Name",
