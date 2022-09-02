@@ -275,8 +275,6 @@
   "comet.pages.pages.page.visibility.unpublished": "Unveröffentlicht",
   "comet.pages.publisher": "Veröffentlicher",
   "comet.pages.publisher.build": "Build starten",
-  "comet.pages.publisher.buildStartFailed": "Der Build ist fehlgeschlagen",
-  "comet.pages.publisher.buildStarted": "Build gestartet",
   "comet.pages.publisher.name": "Name",
   "comet.pages.publisher.runtime": "Laufzeit",
   "comet.pages.publisher.runtime.minutes": "min",
