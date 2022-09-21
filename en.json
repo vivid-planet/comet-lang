@@ -292,7 +292,7 @@
   "comet.pages.publisher.startBuildsDialog.buildTemplates.name": "Name",
   "comet.pages.publisher.startBuildsDialog.button": "Start builds",
   "comet.pages.publisher.startBuildsDialog.header": "Start manual builds",
-  "comet.pages.publisher.startBuildsDialog.hint": "The more builds you start, the longer it takes until they are completed. If you need to rebuild manually, select only the scopes required.",
+  "comet.pages.publisher.startBuildsDialog.hint": "Please use this function only in exceptional cases. The more builds you start, the longer it takes until they are completed. If you need to rebuild manually, select only the scopes required.",
   "comet.pages.publisher.status": "Status",
   "comet.pages.publisher.trigger": "Trigger",
   "comet.pages.redirects": "Redirects",
