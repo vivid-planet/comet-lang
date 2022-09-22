@@ -50,7 +50,6 @@
   "comet.blocks.link": "Link",
   "comet.blocks.link.external.openInNewWindow": "Open in new window",
   "comet.blocks.link.external.targetUrl": "URL",
-  "comet.blocks.link.external.targetUrl.invalid": "Invalid URL",
   "comet.blocks.list.add": "Add {itemName}",
   "comet.blocks.list.addNewBlock": "Add block",
   "comet.blocks.list.blockDeleted": "{count, plural, one {block} other {# blocks}} deleted",
@@ -65,6 +64,8 @@
   "comet.blocks.oneOfBlock.empty": "None",
   "comet.blocks.richtext": "Rich Text",
   "comet.blocks.seo": "SEO",
+  "comet.blocks.seo.alternativeLinks.code": "Code",
+  "comet.blocks.seo.alternativeLinks.sectionTitle": "Alternate links",
   "comet.blocks.seo.canonicalTag.sectionTitle": "Canonical Tag",
   "comet.blocks.seo.html  Title": "HTML Title",
   "comet.blocks.seo.meta.sectionTitle": "Meta Tags",
@@ -292,7 +293,7 @@
   "comet.pages.publisher.startBuildsDialog.buildTemplates.name": "Name",
   "comet.pages.publisher.startBuildsDialog.button": "Start builds",
   "comet.pages.publisher.startBuildsDialog.header": "Start manual builds",
-  "comet.pages.publisher.startBuildsDialog.hint": "The more builds you start, the longer it takes until they are completed. If you need to rebuild manually, select only the scopes required.",
+  "comet.pages.publisher.startBuildsDialog.hint": "Please use this function only in exceptional cases. The more builds you start, the longer it takes until they are completed. If you need to rebuild manually, select only the scopes required.",
   "comet.pages.publisher.status": "Status",
   "comet.pages.publisher.trigger": "Trigger",
   "comet.pages.redirects": "Redirects",
@@ -384,6 +385,7 @@
   "comet.table.pagination.pageInfo": "Page {current} of {total}",
   "comet.table.tableFilterFinalForm.resetButton": "Reset filter",
   "comet.table.tableQuery.error": "Error :( {error}",
+  "comet.validation.validateUrl.invalid": "Invalid URL",
   "comet.version.title": "Version: {buildNumber} ({commitSha})",
   "cometAdmin.dateTime.fromToSeparatorText": "to"
 }
