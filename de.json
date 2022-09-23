@@ -50,7 +50,6 @@
   "comet.blocks.link": "Link",
   "comet.blocks.link.external.openInNewWindow": "In einem neuen Fenster öffnen",
   "comet.blocks.link.external.targetUrl": "URL",
-  "comet.blocks.link.external.targetUrl.invalid": "Ungültige URL",
   "comet.blocks.list.add": "Hinzufügen {itemName} ",
   "comet.blocks.list.addNewBlock": "Block hinzufügen",
   "comet.blocks.list.blockDeleted": "{count, plural, one {block} other {# blocks}} gelöscht",
@@ -369,5 +368,6 @@
   "comet.table.pagination.pageInfo": "Seite {current} von {total}",
   "comet.table.tableFilterFinalForm.resetButton": "Filter zurücksetzen",
   "comet.table.tableQuery.error": "Fehler :( {error}",
+  "comet.validation.validateUrl.invalid": "Ungültige URL",
   "comet.version.title": "Version: {buildNumber} ({commitSha})"
 }
