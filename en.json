@@ -329,6 +329,7 @@
   "comet.preview.showOnlyVisible": "Show only visible blocks",
   "comet.publisher.title": "Publisher",
   "comet.redirects.defaultTitle": "Redirect Detail",
+  "comet.redirects.form.validation.sourceTaken": "Source {source} is not available",
   "comet.redirects.redirect.activation.title": "Activation",
   "comet.redirects.redirect.active.activated": "activated",
   "comet.redirects.redirect.active.all": "All",
