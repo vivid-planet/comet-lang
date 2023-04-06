@@ -195,6 +195,7 @@
   "comet.generic.cancel": "Abbrechen",
   "comet.generic.close": "Schließen",
   "comet.generic.content": "Inhalt",
+  "comet.dateTime.fromToSeparatorText": "bis",
   "comet.generic.copy": "Kopieren",
   "comet.generic.delete": "Löschen",
   "comet.generic.discard": "Verwerfen",
@@ -417,6 +418,5 @@
   "comet.timeRangePicker.start": "Start",
   "comet.timeTimePicker.time": "Zeit",
   "comet.validation.validateUrl.invalid": "Ungültige URL",
-  "comet.version.title": "Version: {buildNumber} ({commitSha})",
-  "cometAdmin.dateTime.fromToSeparatorText": "bis"
+  "comet.version.title": "Version: {buildNumber} ({commitSha})"
 }
