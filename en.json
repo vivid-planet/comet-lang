@@ -428,5 +428,6 @@
   "comet.timeRangePicker.start": "Start",
   "comet.timeTimePicker.time": "Time",
   "comet.validation.validateUrl.invalid": "Invalid URL",
-  "comet.version.title": "{buildNumber} ({commitSha})"
+  "comet.version.title": "{buildNumber} ({commitSha})",
+  "contentScope.select.searchInput.placeholder": "Search ..."
 }
