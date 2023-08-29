@@ -110,6 +110,7 @@
   "comet.blocks.youTubeVideo.aspectRatio.16X9": "16:9",
   "comet.blocks.youTubeVideo.aspectRatio.4X3": "4:3",
   "comet.blocks.youTubeVideo.autoplay": "Autoplay",
+  "comet.blocks.youTubeVideo.loop": "Loop",
   "comet.blocks.youTubeVideo.showControls": "Show controls",
   "comet.blocks.youTubeVideo.youtubeIdentifier": "YouTube URL or YouTube Video ID",
   "comet.colorPicker.clearButton": "clear color",
