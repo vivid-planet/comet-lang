@@ -169,8 +169,6 @@
   "comet.dateRangePicker.selectDateRange": "Zeitraum auswäheln",
   "comet.deleteMutation.promptDelete": "Item löschen?",
   "comet.error.abstractErrorMessage": "Ein Fehler ist aufgetreten",
-  "comet.errorDialog.Details": "Details",
-  "comet.errorDialog.abstractUserMessage": "Es ist ein Fehler aufgetreten",
   "comet.errorDialog.title": "Fehler",
   "comet.file.errors.fileExtensionTypeMismatch": "<strong> Die Dateierweiterung stimmt nicht überein.</strong> Der Dateityp ist {mimetype}, welcher nicht mit {extension} übereinstimmt. Bitte verwenden Sie eine Dateierweiterung, die mit dem Dateityp kompatibel ist.",
   "comet.file.errors.fileSize": "<strong>Die Datei ist zu groß. </strong> Die maximale Größe ist {maxFileSizeInMegabytes}. Bitte komprimieren Sie die Datei und versuchen Sie es erneut.",
