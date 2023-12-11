@@ -25,6 +25,7 @@
   "comet.blocks.columns.columnTitle": "Column {number}",
   "comet.blocks.columns.columns": "Columns",
   "comet.blocks.columns.editColumn": "Edit column",
+  "comet.blocks.columns.items": "Items",
   "comet.blocks.columns.layout": "Layout",
   "comet.blocks.columns.noColumns": "No columns",
   "comet.blocks.columns.unknownColumn": "Can't find column",
