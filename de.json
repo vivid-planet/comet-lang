@@ -392,7 +392,6 @@
   "comet.saveConflict.autoReloadSuccessfull": "Dieser Inhalt hat sich geändert. Wir haben die Seite für Sie aktualisiert.",
   "comet.saveConflictDialog.actionButtons.discardChanges": "Verwerfen",
   "comet.saveConflictDialog.actionButtons.openCurrentVersionInNewTab": "Öffnen Sie die aktuelle Version in neuer Registerkarte",
-  "comet.saveConflictDialog.description": "Jemand anderes hat eine neue Version gespeichert. Daher kann diese Seite jetzt nicht gespeichert werden. Sie können die geänderte Seite in einem neuen Browser-Tab öffnen, um die Änderungen zu vergleichen.",
   "comet.saveConflictDialog.description1": "Es gab einen Konflikt während des Speicherns",
   "comet.saveConflictDialog.title": "Konflikt speichern",
   "comet.seo.sitemap.pageIndex": "Seitenindex",
