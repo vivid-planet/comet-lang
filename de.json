@@ -230,7 +230,6 @@
   "comet.header.buildStatus.staticSiteGeneration": "Statische Seitengenerierung",
   "comet.logout": "Logout",
   "comet.openLinkDialog.actionButtons.open": "Öffnen",
-  "comet.pageTree.duplicate": "Duplizieren",
   "comet.pages.cannotPasteBlock.messageFailedToParseClipboard": "Inhalt der Zwischenablage sind keine gültigen Blöcke",
   "comet.pages.cannotPastePage.messageEmptyClipboard": "Zwischenablage ist leer",
   "comet.pages.cannotPastePage.messageFailedToReadClipboard": "Zwischenablage kann nicht gelesen werden. Bitte stellen Sie sicher, dass der Zugriff freigegeben ist.",
