@@ -526,7 +526,6 @@
   "comet.version.title": "{buildNumber} ({commitSha})",
   "common.loading": "Loading ...",
   "contentScope.select.searchInput.placeholder": "Search ...",
-  "dashboard.greeting": "Hello!",
   "dashboard.latestBuildsWidget.runtime": "Runtime",
   "dashboard.latestBuildsWidget.status": "Status",
   "dashboard.latestBuildsWidget.title": "Latest Builds",
