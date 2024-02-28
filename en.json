@@ -161,6 +161,7 @@
   "comet.dam.file.focusPointInfoText": "The focus point marks the most important part of the image, which is always visible. Choose it wisely.",
   "comet.dam.file.format": "Format",
   "comet.dam.file.imageInfos": "Image infos",
+  "comet.dam.file.importSourceType": "Source",
   "comet.dam.file.infos": "Infos",
   "comet.dam.file.licenseDetails": "License details",
   "comet.dam.file.licenseDuration": "License duration",
