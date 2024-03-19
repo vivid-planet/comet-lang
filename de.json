@@ -152,7 +152,6 @@
   "comet.dam.file.seo": "SEO",
   "comet.dam.file.error.durationTo": "Das Enddatum der Lizenz muss nach dem Startdatum sein",
   "comet.dam.file.settings": "Einstellungen",
-  "comet.dam.file.size": "Größe",
   "comet.dam.file.smartFocusPoint": "Intelligenter Fokuspunkt",
   "comet.dam.file.title": "Titel",
   "comet.dam.file.totalLoadedUpload": " {loaded}/{total} ",
