@@ -56,6 +56,7 @@
   "comet.blocks.link": "Link",
   "comet.blocks.link.external.openInNewWindow": "Open in new window",
   "comet.blocks.link.external.targetUrl": "URL",
+  "comet.blocks.link.title": "Title",
   "comet.blocks.list.action.copy": "Copy",
   "comet.blocks.list.action.delete": "Delete",
   "comet.blocks.list.action.invisible": "Make invisible",
