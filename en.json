@@ -554,6 +554,7 @@
   "comet.userPermissions.validFrom": "Valid from",
   "comet.userPermissions.validTo": "Valid to",
   "comet.userPermissions.validityPeriod": "Validity period",
+  "comet.validation.validateLinkTarget.invalid": "Invalid link target",
   "comet.validation.validateUrl.invalid": "Invalid URL",
   "comet.version.title": "{buildNumber} ({commitSha})",
   "common.loading": "Loading ...",
