@@ -534,6 +534,8 @@
   "comet.timeRangePicker.start": "Start",
   "comet.timeTimePicker.time": "Time",
   "comet.translate": "Translate",
+  "comet.translator.original": "Original",
+  "comet.translator.translation": "Translation",
   "comet.userPermissions.addPermission": "Add new permission",
   "comet.userPermissions.approvedBy": "Approved by",
   "comet.userPermissions.basicData": "Basic Data",
