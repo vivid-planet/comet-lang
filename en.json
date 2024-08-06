@@ -474,6 +474,7 @@
   "comet.preview.openLink.title": "Open Link",
   "comet.preview.showOnlyVisible": "Show only visible blocks",
   "comet.publisher.title": "Publisher",
+  "comet.rangeInput.separator": "to",
   "comet.redirects.defaultTitle": "Redirect Detail",
   "comet.redirects.form.validation.sourceTaken": "Source {source} is not available",
   "comet.redirects.redirect.generationType.automatic": "Automatic",
