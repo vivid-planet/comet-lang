@@ -6,6 +6,7 @@
   "comet.blocks.anchor.displayName": "Anchor",
   "comet.blocks.anchor.label": "Anchor",
   "comet.blocks.anchor.placeholder": "Name",
+  "comet.blocks.block.maxVisibleBlocks": "Max. visible blocks allowed: {maxVisibleBlocks}",
   "comet.blocks.blocks.name": "Blocks",
   "comet.blocks.cannotPasteBlock.messageEmptyClipboard": "Clipboard is empty",
   "comet.blocks.cannotPasteBlock.messageFailedToCreateBlock": "Failed to create a copy of the blocks from clipboard",
