@@ -82,7 +82,6 @@
   "comet.blocks.listBlock.itemName": "block",
   "comet.blocks.listBlock.itemsName": "blocks",
   "comet.blocks.listBlock.name": "List",
-  "comet.blocks.oneOf.blockType": "Type",
   "comet.blocks.oneOfBlock.empty": "None",
   "comet.blocks.richtext": "Rich Text",
   "comet.blocks.seo": "SEO",
