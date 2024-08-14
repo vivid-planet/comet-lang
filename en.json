@@ -129,6 +129,7 @@
   "comet.colorPicker.clearButton": "clear color",
   "comet.colorPicker.title": "Choose a color",
   "comet.common.clipboardInvalidFormat": "Clipboard contains an invalid format",
+  "comet.common.deleteFailed": "Failed to delete",
   "comet.common.pasteFailedInvalidFormat": "Paste failed, probably due to an invalid format",
   "comet.common.visibility": "{visibility, select, true {Published} false {Unpublished} other {unknown}}",
   "comet.common.visibility.published": "Published",
