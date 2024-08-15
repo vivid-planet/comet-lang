@@ -72,7 +72,6 @@
   "comet.blocks.list.action.paste": "Einfügen",
   "comet.blocks.listBlock.name": "Liste",
   "comet.blocks.list.action.visible": "Sichtbar schalten",
-  "comet.blocks.oneOf.blockType": "Typ",
   "comet.blocks.oneOfBlock.empty": "Keine",
   "comet.blocks.richtext": "Richtext",
   "comet.blocks.seo": "SEO",
