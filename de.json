@@ -433,5 +433,6 @@
   "comet.timeTimePicker.time": "Zeit",
   "comet.validation.validateUrl.invalid": "Ungültige URL",
   "comet.version.title": "Version: {buildNumber} ({commitSha})",
-  "comet.rte.extensions.nonBreakingSpace.buttonTooltip": "Zeilenumbruch einfügen"
+  "comet.rte.extensions.nonBreakingSpace.buttonTooltip": "Zeilenumbruch einfügen",
+  "dashboard.userGreeting": "Hallo {givenName}!"
 }
