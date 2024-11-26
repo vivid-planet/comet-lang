@@ -136,7 +136,6 @@
   "comet.common.visibility.published": "Veröffentlicht",
   "comet.common.visibility.unpublished": "Unveröffentlicht",
   "comet.dam.duplicateFilenameDialog.action.uploadAsCopy": "Als {count, plural, one {Kopie} other {Kopien}} hochladen",
-  "comet.dam.duplicateFilenameDialog.introduction": "Die folgenden Dateinamen existieren bereits",
   "comet.dam.duplicateFilenameDialog.title": "{count, plural, one {Doppelter Dateiname} other {Doppelte Dateinamen}}",
   "comet.dam.file.altText": "Alternativer Text",
   "comet.dam.file.archive": "Archiv",
