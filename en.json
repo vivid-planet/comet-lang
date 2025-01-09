@@ -273,6 +273,7 @@
   "comet.feedbackButton.tooltipSuccessMessage": "Success",
   "comet.file.errors.fileExtensionTypeMismatch": "<strong>File extension does not match file type.</strong> File type is {mimetype}, which does not match its {extension} extension. Please use a file extension compatible to the file type.",
   "comet.file.errors.fileSize": "<strong>File is too big.</strong> The maximum permitted file size is {maxFileSizeInMegabytes}. Please compress the file and try again.",
+  "comet.file.errors.filenameTooLong": "<strong>Filename is too long.</strong> The filename can't exceed 255 characters.",
   "comet.file.errors.maxResolution": "<strong>Image resolution is too big.</strong> The maximum permitted resolution is {maxResolution} megapixels. Please reduce the image resolution and try again.",
   "comet.file.errors.missingFileExtension": "<strong>File has no extension.</strong> Please add a correct file extension and try again.",
   "comet.file.errors.svgContainsJavaScript": "<strong>The SVG contains JavaScript.</strong> JavaScript is not allowed inside SVG files. Please remove all JavaScript code from the file.",
