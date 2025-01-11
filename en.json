@@ -1,5 +1,5 @@
 {
-  "comet.about": "About/Copyright",
+  "comet.about": "About",
   "comet.about.dialog.copyright": "Copyright © Vivid Planet Software GmbH",
   "comet.about.dialog.title": "About",
   "comet.blocks": "Blocks",
@@ -336,7 +336,7 @@
   "comet.generic.saveAndGoBack": "Save and go back",
   "comet.generic.saveConflict": "Save Conflict",
   "comet.generic.startImpersonation": "Start Impersonation",
-  "comet.generic.stopImpersonation": "Regain original identity",
+  "comet.generic.stopImpersonation": "Stop Impersonation",
   "comet.generic.text": "Text",
   "comet.generic.undo": "Undo",
   "comet.generic.unknown": "Unknown",
