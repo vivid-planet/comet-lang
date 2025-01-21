@@ -276,7 +276,7 @@
   "comet.file.errors.filenameTooLong": "<strong>Filename is too long.</strong> The filename can't exceed 255 characters.",
   "comet.file.errors.maxResolution": "<strong>Image resolution is too big.</strong> The maximum permitted resolution is {maxResolution} megapixels. Please reduce the image resolution and try again.",
   "comet.file.errors.missingFileExtension": "<strong>File has no extension.</strong> Please add a correct file extension and try again.",
-  "comet.file.errors.svgContainsJavaScript": "<strong>The SVG contains JavaScript.</strong> JavaScript is not allowed inside SVG files. Please remove all JavaScript code from the file.",
+  "comet.file.errors.svgContainsForbiddenContent": "<strong>The SVG contains forbidden content.</strong> The SVG must not contain JavaScript or security-relevant tags or attributes.",
   "comet.file.errors.unsupportedType": "<strong>Unsupported file type.</strong> Files with {extension} extension are not permitted. Please use a different file format and try again.",
   "comet.fileDropzone.dropFile": "Drop file here to upload",
   "comet.fileDropzone.dropfiles": "Drop files here to upload",
