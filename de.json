@@ -67,7 +67,7 @@
   "comet.blocks.list.action.invisible": "Unsichtbar machen",
   "comet.blocks.list.action.paste": "Einfügen",
   "comet.blocks.list.action.visible": "Sichtbar schalten",
-  "comet.blocks.list.add": "Hinzufügen {itemName} ",
+  "comet.blocks.list.add": "{itemName} hinzufügen",
   "comet.blocks.list.addNewBlock": "Block hinzufügen",
   "comet.blocks.list.blockDeleted": "{count, plural, one {Block} other {# Blöcke}} gelöscht",
   "comet.blocks.list.count": "{count, plural, =0 {No blocks} one {# block} other {# blocks}}",
