@@ -23,7 +23,7 @@
   "comet.blocks.category.structuredContent": "Structured Content",
   "comet.blocks.category.teaser": "Teaser",
   "comet.blocks.category.textAndContent": "Text & Content",
-  "comet.blocks.columns.addColumn": "Add column",
+  "comet.blocks.columns.addItem": "Add item",
   "comet.blocks.columns.columnTitle": "Column {number}",
   "comet.blocks.columns.columns": "Columns",
   "comet.blocks.columns.editColumn": "Edit column",
