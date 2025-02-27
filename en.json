@@ -629,5 +629,11 @@
   "dashboard.latestContentUpdates.name": "Page Name",
   "dashboard.latestContentUpdates.updatedAt": "Updated At",
   "dashboard.latestContentUpdatesWidget.title": "Latest Content Updates",
-  "dashboard.userGreeting": "Hello {givenName}!"
+  "dashboard.userGreeting": "Hello {givenName}!",
+  "dataGrid.panel.addFilter": "Add filter",
+  "dataGrid.panel.apply": "Apply",
+  "dataGrid.panel.columns": "Columns",
+  "dataGrid.panel.filters": "Filters",
+  "dataGrid.panel.resetColumns": "Reset columns",
+  "dataGrid.panel.resetFilters": "Reset filters"
 }
