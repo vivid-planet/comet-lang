@@ -93,7 +93,7 @@
   "comet.blocks.seo.generateSeoTags.errors.failed.title": "Failed to generate SEO tags",
   "comet.blocks.seo.generateSeoTags.errors.noContent.message": "This document contains no content that can be used to generate SEO information. Please add content and try again.",
   "comet.blocks.seo.generateSeoTags.errors.noContent.title": "No content for generation",
-  "comet.blocks.seo.html  Title": "HTML Title",
+  "comet.blocks.seo.htmlTitle": "HTML Title",
   "comet.blocks.seo.meta.sectionTitle": "Meta Tags",
   "comet.blocks.seo.metaDescription": "Meta Description",
   "comet.blocks.seo.openGraph.sectionTitle": "Open Graph",
