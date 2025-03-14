@@ -83,7 +83,7 @@
   "comet.blocks.seo.alternativeLinks.code": "Code",
   "comet.blocks.seo.alternativeLinks.sectionTitle": "Alternative Links",
   "comet.blocks.seo.canonicalTag.sectionTitle": "Canonical Tag",
-  "comet.blocks.seo.html  Title": "HTML Titel",
+  "comet.blocks.seo.htmlTitle": "HTML Titel",
   "comet.blocks.seo.meta.sectionTitle": "Meta Tags",
   "comet.blocks.seo.metaDescription": "Meta Beschreibung",
   "comet.blocks.seo.openGraph.sectionTitle": "Open Graph",
