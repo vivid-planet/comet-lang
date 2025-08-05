@@ -462,6 +462,7 @@
   "comet.pages.pages.page.paste": "Paste",
   "comet.pages.pages.page.path": "Complete Path",
   "comet.pages.pages.page.properties": "Page properties",
+  "comet.pages.pages.page.redirectAlreadyExists": "The slug was changed, but a redirect for the old path already exists.",
   "comet.pages.pages.page.slug": "Slug",
   "comet.pages.pages.page.validate.path.block": "Slug leads to reserved path",
   "comet.pages.pages.page.validate.path.taken": "Slug leads to duplicated path",
