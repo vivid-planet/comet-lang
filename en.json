@@ -667,6 +667,7 @@
   "dataGridColumnsManagement.header.pinnedLeft": "Pinned left",
   "dataGridColumnsManagement.header.pinnedright": "Pinned right",
   "dataGridColumnsManagement.header.scrolling": "Scrolling",
+  "finalFormAutocomplete.noOptions": "No options.",
   "finalFormSelect.error": "Error loading options.",
   "finalFormSelect.noOptions": "No options.",
   "warning.dateTime": "Date / Time",
