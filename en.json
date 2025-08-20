@@ -46,6 +46,7 @@
   "comet.blocks.image.chooseImage": "Choose image",
   "comet.blocks.image.cropImage": "Crop image",
   "comet.blocks.image.dam": "DAM",
+  "comet.blocks.image.damPath": "DAM Path:",
   "comet.blocks.image.dimensions": "{width}x{height}px",
   "comet.blocks.image.edit": "Edit image „{filename}”",
   "comet.blocks.image.focalPoint": "Set manual focus point",
