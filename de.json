@@ -327,7 +327,6 @@
   "comet.pages.publisher.build": "Build starten",
   "comet.pages.publisher.name": "Name",
   "comet.pages.publisher.runtime": "Laufzeit",
-  "comet.pages.publisher.runtime.minutes": "min",
   "comet.pages.publisher.startBuildsDialog.buildTemplates.name": "Name",
   "comet.pages.publisher.startBuildsDialog.button": "Builds starten",
   "comet.pages.publisher.startBuildsDialog.header": "Builds manuell starten",
