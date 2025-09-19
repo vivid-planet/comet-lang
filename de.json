@@ -635,7 +635,7 @@
   "comet.userPermissions.requestedBy": "Beantragt von",
   "comet.userPermissions.requestedBy.placeholder": "Wer hat dies beantragt?",
   "comet.userPermissions.scopes": "Scopes",
-  "comet.userPermissions.selectScopes": "Geltungsbereiche zuweisen",
+  "comet.userPermissions.selectScopes": "Scopes zuweisen",
   "comet.userPermissions.setPermission": "Berechtigung festlegen",
   "comet.userPermissions.source": "Art der Zuweisung",
   "comet.userPermissions.status": "Status",
