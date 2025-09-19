@@ -604,7 +604,7 @@
   "comet.userPermission.validityDuration.tooltip.content": "Leer lassen für unbegrenzte Gültigkeit",
   "comet.userPermission.validityDuration.tooltip.title": "Gültigkeitsdauer",
   "comet.userPermissions.active": "Aktiv",
-  "comet.userPermissions.addPermission": "Neue Erlaubnis hinzufügen",
+  "comet.userPermissions.addPermission": "Neue Berechtigung hinzufügen",
   "comet.userPermissions.addScopesToPermission": "Scope zur Berechtigung hinzufügen",
   "comet.userPermissions.allContentScopes": "Alle Scopes",
   "comet.userPermissions.allPermissions": "Alle Berechtigungen",
