@@ -250,7 +250,7 @@
   "comet.dataGrid.excelExport.defaultFileName": "Excel Export",
   "comet.dataGrid.excelExport.defaultWorksheetName": "Tabelle 1",
   "comet.dataGrid.filterOperators.search": "suche",
-  "comet.dataGridPagination.itemsPerPageLabel": "Element pro Seite",
+  "comet.dataGridPagination.itemsPerPageLabel": "Elemente pro Seite",
   "comet.dataGridPagination.pageInformation": "{itemsFrom}-{itemsTo} von {itemsTotal} Artikel",
   "comet.dataGridPaginationActions.pageXOfY": "Seite {page} von {pageCount}",
   "comet.datePicker.selectDate": "Datum auswählen",
