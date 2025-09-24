@@ -660,7 +660,6 @@
   "comet.warnings.warningSeverity.low": "Niedrig",
   "comet.warnings.warningSeverity.medium": "Mittel",
   "common.loading": "Laden ...",
-  "contentScope.noAccess": "Fehler: Der Benutzer hat keinen Zugriff auf einen Bereich.",
   "contentScopeSelect.list.noOptions": "Keine Optionen",
   "contentScopeSelect.searchInput.placeholder": "Suche...",
   "damImageBlock.tag.image": "Bild",
