@@ -232,7 +232,6 @@
   "comet.dam.file.totalLoadedUpload": " {loaded}/{total} ",
   "comet.dam.file.type": "Typ",
   "comet.dam.file.unsupportedVideoTag": "Ihr Browser unterstützt das Videoelement nicht. Bitte verwenden Sie einen anderen Browser.",
-  "comet.dam.file.usages": "Verwendungen",
   "comet.dam.file.validate.filename.error": "Dateiname existiert bereits",
   "comet.dam.file.videosUsingCaptions": "Videos mit diesen Untertiteln",
   "comet.dam.file.widthAndHeight": "Breite und Höhe",
