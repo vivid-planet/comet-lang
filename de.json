@@ -153,7 +153,6 @@
   "comet.common.visibilityChanged": "Geänderte Sichtbarkeit zu {visibility, select, true {published} false {unpublished} other {unknown}}",
   "comet.contentOverflow.dialogTitle": "Vorschau",
   "comet.cronJobs.noLogs": "Keine Protokolle verfügbar. Sie können externe Protokollierungstools prüfen, falls verfügbar.",
-  "comet.cronJobs.title": "Cron-Jobs",
   "comet.crudContextMenu.copyFailed": "Kopieren fehlgeschlagen",
   "comet.crudMoreActions.overallActions": "Allgemeine Aktionen",
   "comet.crudMoreActions.selectiveActions": "Auswahlabhängige Aktionen",
