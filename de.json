@@ -265,8 +265,6 @@
   "comet.dateTime.fromToSeparatorText": "bis",
   "comet.deleteMutation.promptDelete": "Item löschen?",
   "comet.dependencies.dataGrid.cannotLoadUrl": "URL kann nicht ermittelt werden",
-  "comet.dependencies.dataGrid.currentItems": "{from} - {to} von {count} Elementen",
-  "comet.dependencies.dataGrid.currentPage": "Seite {page} von {numPages}",
   "comet.dependencies.dataGrid.nameAndInfo": "Name/Info",
   "comet.dependencies.dataGrid.reloadTooltip": "Neu laden",
   "comet.dependencies.dataGrid.type": "Typ",
