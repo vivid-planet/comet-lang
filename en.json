@@ -378,6 +378,7 @@
   "comet.header.buildStatus.nextScheduledBuild": "New content changes found. Next publication is planned for:",
   "comet.header.buildStatus.noChanges": "No new content changes",
   "comet.header.buildStatus.staticSiteGeneration": "Static Site Generation",
+  "comet.helpDialogButton.title": "Help",
   "comet.impersonation.inlay.title": "Impersonation Mode",
   "comet.inlineAlert.error.description": "An error occurred. Please try again later or contact the support.",
   "comet.inlineAlert.error.title": "Error",
