@@ -395,6 +395,7 @@
   "comet.jobRuntime.startCompletionTime": "{start} - {completion} ({runtime} min)",
   "comet.jobs.title": "Job runs for {cronJob}",
   "comet.logged.in": "Logged in as",
+  "comet.myAccount": "My Account",
   "comet.openLinkDialog.actionButtons.open": "Open",
   "comet.pages.cannotPasteBlock.messageFailedToParseClipboard": "Content from clipboard aren't valid blocks",
   "comet.pages.cannotPastePage": "An unexpected error occurred when pasting pages.",
