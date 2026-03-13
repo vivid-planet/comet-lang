@@ -612,6 +612,7 @@
   "comet.table.pagination.pageInfo": "Seite {current} von {total}",
   "comet.table.tableFilterFinalForm.resetButton": "Filter zurücksetzen",
   "comet.table.tableQuery.error": "Fehler :( {error}",
+  "comet.tableBlock.deleteColumn": "Löschen",
   "comet.timePicker.select": "Auswählen",
   "comet.timeRangePicker.end": "Ende",
   "comet.timeRangePicker.start": "Start",
