@@ -264,7 +264,7 @@
   "comet.dataGrid.filterOperators.search": "search",
   "comet.dataGrid.quickFilter.placeholder": "Search...",
   "comet.dataGridPagination.itemsPerPageLabel": "Items per page:",
-  "comet.dataGridPagination.pageInformation": "{itemsFrom}-{itemsTo} of {itemsTotal} items",
+  "comet.dataGridPagination.pageInformation": "{itemsFrom}-{itemsTo} of {itemsTotal, plural, one {# item} other {# items}}",
   "comet.dataGridPaginationActions.pageXOfY": "Page {page} of {pageCount}",
   "comet.datePicker.openPicker": "Open date picker",
   "comet.datePicker.selectDate": "Select date",
