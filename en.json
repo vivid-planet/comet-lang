@@ -743,6 +743,7 @@
   "comet.userPermissions.validityDuration": "Validity duration",
   "comet.userPermissions.validityPeriod": "Validity period",
   "comet.userScopes.dialog.title": "Select scopes",
+  "comet.validation.validateJson.invalid": "Invalid JSON",
   "comet.validation.validateLinkTarget.invalid": "Invalid link target",
   "comet.validation.validatePhoneNumber.invalid": "Invalid phone number",
   "comet.validation.validateUrl.invalid": "Invalid URL",
