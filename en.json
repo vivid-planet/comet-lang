@@ -143,6 +143,7 @@
   "comet.blocks.tipTapRichText.dedent.tooltip": "Decrease indent",
   "comet.blocks.tipTapRichText.editLink": "Edit link \"{link}\"",
   "comet.blocks.tipTapRichText.indent.tooltip": "Increase indent",
+  "comet.blocks.tipTapRichText.inlineStyle.default": "Default",
   "comet.blocks.tipTapRichText.insertLink": "Insert link",
   "comet.blocks.tipTapRichText.italic.tooltip": "Italic",
   "comet.blocks.tipTapRichText.link.tooltip": "Link",
