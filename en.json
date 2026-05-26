@@ -916,6 +916,7 @@
   "finalFormSelect.error": "Error loading options.",
   "finalFormSelect.noOptions": "No options.",
   "stories.formSectionl.infoTooltipExamples.hello": "Hello",
+  "story.toolbar.helpDialog.title": "Help",
   "warning.dateTime": "Date / Time",
   "warning.message": "Message",
   "warning.nameAndInfo": "Name/Info",
