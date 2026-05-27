@@ -150,6 +150,7 @@
   "comet.blocks.tipTapRichText.moreOptions.tooltip": "More options",
   "comet.blocks.tipTapRichText.nonBreakingSpace.tooltip": "Insert a non-breaking space",
   "comet.blocks.tipTapRichText.orderedList.tooltip": "Ordered list",
+  "comet.blocks.tipTapRichText.placeholder.tooltip": "Insert placeholder",
   "comet.blocks.tipTapRichText.redo.tooltip": "Redo",
   "comet.blocks.tipTapRichText.removeLink": "Delete Link",
   "comet.blocks.tipTapRichText.removeLink.tooltip": "Remove link",
