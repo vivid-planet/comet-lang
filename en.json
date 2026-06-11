@@ -75,6 +75,8 @@
   "comet.blocks.link": "Link",
   "comet.blocks.link.email": "Email",
   "comet.blocks.link.email.invalid": "Invalid e-mail address",
+  "comet.blocks.link.external.noFollow": "No follow",
+  "comet.blocks.link.external.noFollow.helperText": "Adds rel=\"nofollow\" to the link, telling search engines not to follow it. Use for sponsored, paid, user-generated or untrusted links so that no SEO authority is passed to the target.",
   "comet.blocks.link.external.openInNewWindow": "Open in new window",
   "comet.blocks.link.external.targetUrl": "URL",
   "comet.blocks.link.phone": "Phone Number",
