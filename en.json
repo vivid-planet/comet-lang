@@ -371,6 +371,7 @@
   "comet.fullPageAlert.error.title": "Something went wrong",
   "comet.fullPageAlert.info.title": "Info",
   "comet.fullPageAlert.warning.title": "Warning",
+  "comet.fullTextSearch.noResults": "No results found",
   "comet.generic.add": "Add",
   "comet.generic.apply": "Apply",
   "comet.generic.back": "Back",
