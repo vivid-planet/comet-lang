@@ -690,6 +690,8 @@
   "comet.timePicker.openPicker": "Open time picker",
   "comet.timePicker.select": "Select",
   "comet.timeRangePicker.end": "End",
+  "comet.timeRangePicker.openPicker": "Open time range picker",
+  "comet.timeRangePicker.separator": "to",
   "comet.timeRangePicker.start": "Start",
   "comet.timeTimePicker.time": "Time",
   "comet.translate": "Translate",
