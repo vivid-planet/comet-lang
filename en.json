@@ -888,7 +888,7 @@
   "cometBrevoModule.targetGroups.targetGroups": "Target groups",
   "cometBrevoModule.useContactImport.error.contactsAreBlacklisted": "{amount} contacts could not be imported as they are blacklisted. <link>Download this file</link> to get the blacklisted contact(s).",
   "cometBrevoModule.useContactImport.error.contactsCouldNotBeImported": "{amount} contact(s) could not be imported. <link>Download this file</link> to get the failing row(s).",
-  "cometBrevoModule.useContactImport.error.defaultMessage": "An error occured during the import. Please try again in a while or contact your administrator if the error persists.",
+  "cometBrevoModule.useContactImport.error.defaultMessage": "An error occurred during the import. Please try again in a while or contact your administrator if the error persists.",
   "cometBrevoModule.useContactImport.error.fileUpload": "Could not upload file",
   "cometBrevoModule.useContactImport.importSuccessful.contactsImported": "{amount} contact(s) have been created successfully.",
   "cometBrevoModule.useContactImport.importSuccessful.contactsUpdated": "{amount} contact(s) have been updated.",
