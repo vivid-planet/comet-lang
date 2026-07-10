@@ -590,7 +590,7 @@
   "comet.pagesPageActionToolbar.undo.unpublishedSelected": "Unveröffentlichte ausgewählte Seiten",
   "comet.pagetree.dragLayer.numberDraggedPages": "{numItems} Seiten",
   "comet.pagetree.pageMoved": "Seite verschoben",
-  "comet.pagetree.pageVisibilityChanged": "{name}{visibility, select, visible {veröffentlicht} hidden {unveröffentlicht} archived {archiviert} other {unbekannt}}",
+  "comet.pagetree.pageVisibilityChanged": "{name} {visibility, select, visible {veröffentlicht} hidden {unveröffentlicht} archived {archiviert} other {unbekannt}}",
   "comet.preview.openExternalLink.description": "Möchten Sie \"{url}\" in einem neuen Browser-Tab öffnen?",
   "comet.preview.openLink.title": "Link öffnen",
   "comet.preview.showOnlyVisible": "Nur sichtbare Blöcke anzeigen",
