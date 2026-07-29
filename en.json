@@ -166,6 +166,7 @@
   "comet.blocks.tipTapRichText.textBlockStyle.default": "Default",
   "comet.blocks.tipTapRichText.textBlockType.default": "Default",
   "comet.blocks.tipTapRichText.textBlockType.heading": "Heading {level}",
+  "comet.blocks.tipTapRichText.underline.tooltip": "Underline",
   "comet.blocks.tipTapRichText.undo.tooltip": "Undo",
   "comet.blocks.video.autoplay": "Autoplay",
   "comet.blocks.video.loop": "Loop",
