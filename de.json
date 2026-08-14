@@ -160,7 +160,6 @@
   "comet.blocks.tipTapRichText.subscript.label": "Tiefgestellt",
   "comet.blocks.tipTapRichText.superscript.label": "Hochgestellt",
   "comet.blocks.tipTapRichText.textBlockStyle.default": "Standard",
-  "comet.blocks.tipTapRichText.textBlockType.default": "Standard",
   "comet.blocks.tipTapRichText.textBlockType.heading": "Überschrift {level}",
   "comet.blocks.tipTapRichText.undo.tooltip": "Rückgängig machen",
   "comet.blocks.video.autoplay": "Automatisches Abspielen",
